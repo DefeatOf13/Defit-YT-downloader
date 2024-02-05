@@ -7,7 +7,7 @@ Cool Video Downloader made in Python
 - pip install ttkthemes (Tkinter Themes)
 
 # Credits
-All of this made by [DefeatOf13](defeatof13.github.io) (it wasn't hard though) when listening to Spotify.
+All of this made by [DefeatOf13](https://defeatof13.github.io) (it wasn't hard though) when listening to Spotify.
 
 # Warnings
 It downloads videos in low quality (lol).
