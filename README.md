@@ -1,5 +1,5 @@
 # Defit's YT downloader
-Cool Video Downloader made in Python
+Cool Youtube Video Downloader made in Python
 
 # Required modules
 - pip install tk (Tkinter)
